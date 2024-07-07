@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-01.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-01.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-01.ttf")
+      format("truetype");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-02.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-02.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-02.ttf")
+      format("truetype");
+  font-weight: 200;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-03.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-03.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-03.ttf")
+      format("truetype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-04.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-04.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-04.ttf")
+      format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-05.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-05.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-05.ttf")
+      format("truetype");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-06.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-06.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-06.ttf")
+      format("truetype");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-07.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-07.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-07.ttf")
+      format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-08.eot");
+  src: url("./assets/fonts/Yekan-Bakh-FaNum-08.woff")
+      format("woff"),
+    url("./assets/fonts/Yekan-Bakh-FaNum-08.ttf")
+      format("truetype");
+  font-weight: 800;
+}
